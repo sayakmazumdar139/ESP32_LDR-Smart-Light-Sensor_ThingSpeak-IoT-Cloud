@@ -13,13 +13,19 @@ Sketch/Code Working Principle:
 A. Library Files:
 
 #include <WiFi.h>
+
 #include "ThingSpeak.h"
+
 #include <Wire.h>
+
 #include <LiquidCrystal_I2C.h>
 
 WiFi.h → Connects ESP32 to the Wi-Fi network.
+
 ThingSpeak.h → Sends sensor data to the ThingSpeak IoT Cloud.
+
 Wire.h → Enables I2C communication.
+
 LiquidCrystal_I2C.h → Controls the 16×2 I2C LCD.
 
 B. GPIO Pin Definitions
