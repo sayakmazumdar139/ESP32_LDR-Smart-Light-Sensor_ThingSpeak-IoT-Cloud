@@ -26,7 +26,8 @@ ThingSpeak.h → Sends sensor data to the ThingSpeak IoT Cloud.
 
 Wire.h → Enables I2C communication.
 
-LiquidCrystal_I2C.h → Controls the 16×2 I2C LCD.
+**LiquidCrystal_I2C.h → Controls the 16×2 I2C LCD.**
+
 
 B. GPIO Pin Definitions
 #define LDR_PIN 34
