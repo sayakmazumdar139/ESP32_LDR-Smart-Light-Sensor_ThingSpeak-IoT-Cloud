@@ -154,14 +154,15 @@ ESP32 decides whether the room is Dark or Bright.
 
 If Dark, then 
 
-   LED ON
-  Buzzer ON
+    LED ON
+   
+    Buzzer ON
 
 **LCD shows:**
 
-ROOM DARK
+    ROOM DARK
 
-  LED ON
+    LED ON
 
 **Also stores:**
 
@@ -169,14 +170,15 @@ lightStatus = 1;
 
 If Bright
 
- LED OFF
+    LED OFF
  
-Buzzer OFF
+    Buzzer OFF
 
 **LCD shows:**
 
-ROOM BRIGHT
- LED OFF
+    ROOM BRIGHT
+    
+     LED OFF
 
 **Stores:**
 
